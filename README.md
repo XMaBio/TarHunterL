@@ -28,7 +28,8 @@ conservation filter.  TarHunterL is performed in the following two steps:
 (ii) Parse FASTA result to obtain miRNA targets and eTMs.
 
 
-
+Citation: Ma X. et al. TarHunter, a tool for predicting conserved microRNA 
+targets and target mimics in plants. Bioinformatics. 2017 Dec. 11
 
 ===============================================================================
                                  Prerequisites
