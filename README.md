@@ -5,7 +5,7 @@
 
 Version 1.0
 
-Author: Xuan Ma <xuanma@genetics.ac.cn>
+Author: Xuan Ma <skyxma@tjnu.edu.cn>
  
 This program is free software: you can redistribute it and/or modify it under the 
 terms of the GNU General Public License as published by the Free Software 
@@ -29,7 +29,7 @@ conservation filter.  TarHunterL is performed in the following two steps:
 
 
 Citation: Ma X. et al. TarHunter, a tool for predicting conserved microRNA 
-targets and target mimics in plants. Bioinformatics. 2017 Dec. 11
+targets and target mimics in plants. Bioinformatics. 2018 May 1
 
 ===============================================================================
                                  Prerequisites
