@@ -22,7 +22,7 @@
 #  Author: Xuan Ma <skyxma@tjnu.edu.cn>
 #
 #  Ma X. et al. TarHunter, a tool for predicting conserved microRNA 
-#  targets and target mimics in plants. Bioinformatics. 2017 May 1
+#  targets and target mimics in plants. Bioinformatics. 2018 May 1
 #
 #########################################################################
 
