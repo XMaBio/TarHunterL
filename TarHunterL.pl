@@ -249,7 +249,7 @@ sub run_FASTA {
 
     STDERR->print ("Running FASTA for $mirName ...  ");
 
-    open my $run_fasta, "$fasta_version -A -n -Q -i -U -T $threads -E 100000 $mirfile $tarfile 1 |" or die $!;
+    open my $run_fasta, "$fasta_version -A -n -Q -i -U -T $threads -E 100000 $mirfile $tarfile 1 2>/dev/null |" or die $!;
     while (<$run_fasta>) {
         $fasta_output_ID ++;
         chomp;
